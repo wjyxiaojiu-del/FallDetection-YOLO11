@@ -1,0 +1,18 @@
+# Dataset images (too large)
+img/
+train/
+val/
+xml/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Training runs (except final model)
+runs/detect/fall_detect/
+runs/detect/fall_detect-2/
+
+# System
+.DS_Store
+Thumbs.db
